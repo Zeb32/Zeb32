@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ali Zeb
 - 👀 I’m interested in Data Analytics with SQL and Python
-- 🌱 I’m currently learning Advance SQL And Working on Dat Warehouse Project
+- 🌱 i have worked on Dat Warehouse Project
+- 🌱 Currently i am Learning Python
 - 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me alizeb447@hotmail.com
 

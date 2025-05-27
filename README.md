@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on Data Warehouse Project [Cricket States Data Warehouse](https://github.com/Zeb32/Cricket_States_DataWarehouse)
 
-- My HR Dashboard Project - Power Bi [Power Bi](https://mavenanalytics.io/project/26812)
+- 👯 My HR Dashboard Project - Power Bi [Power Bi](https://mavenanalytics.io/project/26812)
 
 - 👯 My Data Visualization Tableau Projects [Tableau](https://public.tableau.com/app/profile/ali.zeb6211/vizzes)
 

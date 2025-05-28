@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alizeb447@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/e46167a3130c4b45/EfYBPZ-lTz1PtY3zZtxxZi8BNGMYLERVZnPLz1HxYKvLuQ?e=0CJAGg](https://tinyurl.com/5brvfey3)
+- 📄 Know about my experiences .(https://tinyurl.com/5brvfey3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

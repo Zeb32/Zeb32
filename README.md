@@ -5,25 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeb32" alt="zeb32" /></a> </p>
 
-- 👯 I’m looking to collaborate on Data Warehouse Project [Cricket States Data Warehouse](https://github.com/Zeb32/Cricket_States_DataWarehouse)
+- 👯 I’m looking to collaborate on Data Warehouse Project [Cricket States Data Warehouse](https://rb.gy/nki9cn)
 
-- 👯 My HR Dashboard Project - Power Bi [Power Bi](https://mavenanalytics.io/project/26812)
+- 👯 My HR Dashboard Project - Power Bi [Power Bi](https://rb.gy/8t52kb)
 
-- 👯 My Data Visualization Tableau Projects [Tableau](https://public.tableau.com/app/profile/ali.zeb6211/vizzes)
+- 👯 My Data Visualization Tableau Projects [Tableau](https://rb.gy/m9brqr)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zeb32?tab=repositories](https://github.com/Zeb32?tab=repositories)
-
-- 📝 I Occasionally write articles on [https://medium.com/@loos45460](https://medium.com/@loos45460)
+- 👨‍💻 All of my projects are available at [https://github.com/Zeb32?tab=repositories](https://rb.gy/kzq968)
 
 - 💬 Ask me about **SQL, Python and Excel**
 
 - 📫 How to reach me **alizeb447@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/e46167a3130c4b45/EfYBPZ-lTz1PtY3zZtxxZi8BNGMYLERVZnPLz1HxYKvLuQ?e=0CJAGg](https://1drv.ms/b/c/e46167a3130c4b45/EfYBPZ-lTz1PtY3zZtxxZi8BNGMYLERVZnPLz1HxYKvLuQ?e=0CJAGg)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📄 Know about my experiences [https://1drv.ms/b/c/e46167a3130c4b45/EfYBPZ-lTz1PtY3zZtxxZi8BNGMYLERVZnPLz1HxYKvLuQ?e=0CJAGg](https://tinyurl.com/5brvfey3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
